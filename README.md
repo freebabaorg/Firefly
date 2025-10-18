@@ -10,7 +10,7 @@
 
 ---
 
-[**🖥️Firefly在线预览（Netlify）**](https://demo-firefly.netlify.app/)  &emsp;
+[**🖥️Firefly在线预览（Netlify）**](https://freebaba.org)  &emsp;
 [**📝Firefly使用文档**](https://docs-firefly.cuteleaf.cn/)
 
 ⚡ 静态站点生成: 基于Astro的超快加载速度和SEO优化
