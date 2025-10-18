@@ -10,13 +10,13 @@ export const siteConfig: SiteConfig = {
   description:
     "免费巴巴是一个去中心化公益博客，主要发布一些免费的翻墙节点，免费机场节点，免费订阅链接等！我们还会分享一些共享账号信息，当然这些都是免费的！",
   keywords: [
-    "Firefly",
-    "Fuwari",
-    "Astro",
-    "ACGN",
-    "博客",
-    "技术博客",
-    "静态博客",
+    "免费节点",
+    "免费机场",
+    "免费VPN",
+    "免费订阅链接",
+    "免费代理",
+    "共享账号",
+    "共享id",
   ],
 
   lang: SITE_LANG,
