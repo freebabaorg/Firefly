@@ -1,19 +1,14 @@
 import type { ProfileConfig } from "../types/config";
 
 export const profileConfig: ProfileConfig = {
-  avatar: "/assets/images/avatar.webp",
-  name: "Firefly",
-  bio: "Hello, I'm Firefly.",
+  avatar: "/assets/images/tou.webp",
+  name: "FreeBaBa",
+  bio: "免费巴巴：每日更新,免费分享~",
   links: [
-    {
-      name: "Bilibli",
-      icon: "fa6-brands:bilibili",
-      url: "https://space.bilibili.com/38932988",
-    },
     {
       name: "GitHub",
       icon: "fa6-brands:github",
-      url: "https://github.com/CuteLeaf",
+      url: "https://github.com/freebabaorg/Firefly",
     },
   ],
 };
