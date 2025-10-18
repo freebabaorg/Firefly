@@ -10,9 +10,9 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
   ];
 
   // 根据配置决定是否添加追番页面
-  if (siteConfig.pages.anime) {
-    links.push(LinkPreset.Anime);
-  }
+//  if (siteConfig.pages.anime) {  //
+//    links.push(LinkPreset.Anime); //
+//  } //
 
   // 支持自定义导航栏链接,并且支持多级菜单
   links.push({
