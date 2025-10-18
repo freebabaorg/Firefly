@@ -5,11 +5,11 @@ import type { FriendLink } from "../types/config";
 // 友链配置
 export const friendsConfig: FriendLink[] = [
   {
-    title: "夏叶博客",
+    title: "Shadowrocket",
     imgurl:
-      "https://q.qlogo.cn/headimg_dl?dst_uin=7618557&spec=640&img_type=jpg",
-    desc: "总有一场相遇，是互相喜欢的！",
-    siteurl: "https://www.cuteleaf.cn",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/d9/61/f6d961a1-1204-2152-693b-f621d02df3ff/AppIcon-0-0-1x_U007euniversal-0-1-85-220.png/230x0w.webp",
+    desc: "苹果手机最好用的翻墙梯子！",
+    siteurl: "https://apps.apple.com/us/app/shadowrocket/id932747118",
     tags: ["Blog"],
     weight: 10, // 权重，数字越大排序越靠前
     enabled: true, // 是否启用
