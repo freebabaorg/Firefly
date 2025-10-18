@@ -52,21 +52,3 @@ description: "与优秀的朋友们一起成长"
 <div class="tips">
 💡 <strong>小贴士</strong>：在这个去中心化的数字宇宙中，让我们以链接为契机，共同探索、分享、成长。
 </div>
-
-<style>
-.tips {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 1rem;
-  border-radius: 8px;
-  margin: 2rem 0;
-  text-align: center;
-}
-
-.friends-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1rem;
-  margin: 2rem 0;
-}
-</style>
