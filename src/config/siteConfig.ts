@@ -5,7 +5,7 @@ import { fontConfig } from "./fontConfig";
 const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 
 export const siteConfig: SiteConfig = {
-  title: "FreeBaba",
+  title: "免费巴巴",
   subtitle: "梯子、机场、节点、代理、账号、免费分享博客！",
   description:
     "免费巴巴是一个去中心化公益博客，每日免费更新翻墙节点、机场节点、翻墙梯子、订阅链接等！我们还会分享一些共享账号信息，这些都是免费的！",
